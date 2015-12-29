@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Who is That Pokemon?</string>
+    <string name="title">Pokemon</string>
+
+    <string-array name="pokemons">
+        <item>Voltion</item>
+        <item>Cloyster</item>
+        <item>Electrabuzz</item>
+    </string-array>
+</resources>
